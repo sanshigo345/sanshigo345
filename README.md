@@ -1,1 +1,3 @@
-- 👋 Hi, I’m sanshigo
+- 👋 Hi, I’m sanshi
+- I am studying at Hacettepe Computer Engineering
+- I am currently interested in Web3 development, previously I was interested in game development. Have fun in my profile 🆒
