@@ -1,4 +1,4 @@
 - 👋 Hi, I’m sanshi
 - I am studying at Hacettepe Computer Engineering
-- I am currently interested in Web3 development, previously I was interested in game development. 
+- I am currently interested in Web3 development.
 - Have fun in my profile you stalker 🤖
