@@ -1,5 +1,5 @@
 Hi there, I'm Buğra Ercan! 👋
-I'm a computer engineering student at Hacettepe University in Ankara, Turkey. I'm passionate about software engineering, game development, and blockchain technology.
+I'm a computer engineering graduate from Hacettepe University in Ankara, Turkey. I'm passionate about software engineering, game development, and blockchain technology.
 
 🔭 I'm currently working as a Software Engineer at Sinopsis, where I'm working on the front-end branch of a data visualization tool.
 
