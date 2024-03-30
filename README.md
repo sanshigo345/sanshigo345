@@ -2,6 +2,8 @@
    <h1>Hello there, I'm <a href="https://bugraisadev.vercel.app/">Buğra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+<p align="center"><a href="https://bugraisadev.vercel.app/">Visit my Techfolio</a></p>
+
 <p align='center'>
      <a href="https://www.linkedin.com/in/bugraercan/">
     <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
@@ -21,11 +23,10 @@
 
 <div align="center">
  - Learning Web3, <i>with Javascript, React and 31 others.</i>
- 
  - I do fullstack and try to learn almost everything 🤯
 </div>
 
-### - Languages and Tools...
+<h3 align="center"> Languages and Tools... </h3>
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
