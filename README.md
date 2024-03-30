@@ -19,11 +19,11 @@
   </h5>
 <br />
 
+<div align="center">
  - Learning Web3, <i>with Javascript, React and 31 others.</i>
  
  - I do fullstack and try to learn almost everything 🤯
- 
-👉 [<img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">](https://www.linkedin.com/in/bugraercan/) 👈
+</div>
 
 ### - Languages and Tools...
 
