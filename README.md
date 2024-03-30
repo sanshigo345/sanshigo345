@@ -11,7 +11,7 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Buğra Ercan | Full Stack Developer | Ankara, 🇹🇷 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  Buğra Ercan | Full Stack Developer | Ankara, 🇹🇷  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
 </div>
  
  <h5 align="center">
@@ -40,3 +40,5 @@
   <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
   <img src="svg/dev/tools/visualstudio_code.svg" alt="visualstudio_code" style="vertical-align:top; margin:6px 4px">
 </p>
+
+<img src="svg/marquee.svg" alt="marquee">
