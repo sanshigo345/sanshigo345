@@ -19,7 +19,6 @@
  <h5 align="center">
    <i>🧠 Don't forget! 0.1 + 0.2 is equal to 0.30000000000000004 🧠</i>
   </h5>
-<br />
 
 <div align="center">
  - Learning Web3, <i>with Javascript, React and 31 others.</i>
@@ -27,6 +26,8 @@
 <div align="center">
 - I do fullstack and try to learn almost everything 🤯
 </div>
+
+<br />
 
 <h3 align="center"> Languages and Tools </h3>
 
