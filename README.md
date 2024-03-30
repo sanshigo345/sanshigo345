@@ -36,7 +36,7 @@
 <img src="svg/dev/frameworks/nodejs_larger.svg" alt="nodejs_larger" style="vertical-align:top; margin:6px 4px">
 <img src="svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:6px 4px">
   <img src="svg/dev/frameworks/unity.svg" alt="unity" style="vertical-align:top; margin:6px 4px">
-   <img src="svg/dev/frameworks/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+   <img src="svg/dev/languages/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   <img src="svg/dev/languages/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   <img src="svg/dev/languages/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
   <img src="svg/dev/languages/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
