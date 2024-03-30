@@ -28,7 +28,7 @@
 - I do fullstack and try to learn almost everything 🤯
 </div>
 
-<h3 align="center"> Languages and Tools... </h3>
+<h3 align="center"> Languages and Tools </h3>
 
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
