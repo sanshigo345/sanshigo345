@@ -1,6 +1,5 @@
 <div align="center">
    <h1>Hello there, I'm <a href="https://bugraisadev.vercel.app/">Buğra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
-   
 </div>
 
 <p align='center'>
@@ -11,13 +10,9 @@
   </a>  
 </p>
 
-
 <div align="center">
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Buğra Ercan | Full Stack Developer | Ankara, 🇹🇷 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
 </div>
-
-<br />
-
  
  <h5 align="center">
    <i>🧠 Don't forget! 0.1 + 0.2 is equal to 0.30000000000000004 🧠</i>
