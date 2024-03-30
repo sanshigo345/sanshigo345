@@ -13,7 +13,7 @@
 </p>
 
 <div align="center">
-<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  Buğra Ercan | Full Stack Developer | Ankara, 🇹🇷  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
+<h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45">  Buğra Ercan | Fullstack Software Engineer | Ankara, 🇹🇷  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
 </div>
  
  <h5 align="center">
