@@ -2,7 +2,7 @@
    <h1>Hello there, I'm <a href="https://bugraisadev.vercel.app/">Buğra</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-<p align="center"><a href="https://bugraisadev.vercel.app/">Visit my Techfolio</a></p>
+<h2 align="center"><a href="https://bugraisadev.vercel.app/">Visit my Techfolio</a></h2>
 
 <p align='center'>
      <a href="https://www.linkedin.com/in/bugraercan/">
