@@ -16,6 +16,8 @@
 <h3><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"> Buğra Ercan | Full Stack Developer | Ankara, 🇹🇷 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45"></h3>
 </div>
 
+<br />
+
  
  <h5 align="center">
    <i>🧠 Don't forget! 0.1 + 0.2 is equal to 0.30000000000000004 🧠</i>
@@ -24,9 +26,9 @@
 
  - Learning Web3, <i>with Javascript, React and 31 others.</i>
  
- - I do fullstack and a bit of everything :heart:
+ - I do fullstack and try to learn almost everything 🤯
  
- - 💬 Connect? lets get social 👉 [<img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">](https://www.linkedin.com/in/bugraercan/) 👈
+👉 [<img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">](https://www.linkedin.com/in/bugraercan/) 👈
 
 ### - Languages and Tools...
 
