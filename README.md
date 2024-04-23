@@ -21,7 +21,7 @@
   </h5>
 
 <div align="center">
- - Learning Web3, <i>with Javascript, React and 31 others.</i>
+ - Learning Web3, <i>Javascript, React and 85 others.</i>
 </div>
 <div align="center">
 - I do fullstack and try to learn almost everything 🤯
